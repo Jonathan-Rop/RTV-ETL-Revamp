@@ -4,7 +4,7 @@ RTV-ETL-Revamp
 
 <a name="readme-top"></a>
 
-# <div align="center">🛰BUILDING AN ETL</div>
+# <div align="center">STEP BY STEP EXPLANATION OF BUILDING AN ETL BASED ON THE GIVEN SCENARIO PROVIDED</div>
 
 # 📗 Table of Contents
 
