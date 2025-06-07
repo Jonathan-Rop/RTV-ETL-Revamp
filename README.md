@@ -22,9 +22,9 @@ RTV-ETL-Revamp
 
 # 📖 Raising the Village Data Pipeline to ingest data to a data warehouse Hub <a name="about-project"></a>
 
-In this Project, I have sourced files from MiniIO as a data source, perfomed ETL processes using pandas and visualization using PowerBI:
+In this Project, I have sourced files from a csv file as a data source, perfomed ETL processes using pandas and visualization using  AWS services:
+This is a completion of the previoulsy assignned ETL which was not completed using AWS services
 
-- Python
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,8 +40,10 @@ In this Project, I have sourced files from MiniIO as a data source, perfomed ETL
 
 ###  Key Features <a name="key-features"></a>
 
-- Using provided data to perfom ETLprocesses to provide data insights
-- Display of pandas and spark use in data manipulation
+- Showcasing Building an ETL using AWS services ( S3, Glue, Athena, Quicksight)
+- Display of pandas and spark use in data understanding and transformation
+- Created an notebook to show all the data provide as well.
+- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -71,6 +73,10 @@ To run this project you need:
 - Installations required to run this project:
 
 ## Prerequisites
+- For those runniing this project on AWS, ensure you have an AWS account and access the services in the console.
+
+## To run on local machine
+Ensure you have:
 -  Install Python
 -  Install PostgreSQL
 -  Install Pandas
@@ -80,7 +86,9 @@ To run this project you need:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Raising the village for this challangE.Looking forward to working together
+- I would like to thank Raising the village for this challenge .Looking forward to working together
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
