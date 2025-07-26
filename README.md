@@ -22,9 +22,7 @@ RTV-ETL-Revamp
 
 # 📖 Raising the Village Data Pipeline to ingest data to a data warehouse Hub <a name="about-project"></a>
 
-In this Project, I have sourced files from MiniIO as a data source, perfomed ETL processes using pandas and visualization using PowerBI:
-
-- Python
+In this Project, I have sourced files from The organization Raising the Village perfomed transformations and stored data to MiniIO as a data warehousr, perfomed SQL transformations the visualized the KPI metrics via grafana:
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,7 +31,9 @@ In this Project, I have sourced files from MiniIO as a data source, perfomed ETL
   <ul>
   <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PYTHON</a></li>
   <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PYSPARK</a></li>
-    <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">PANDAS</a></li>
+    <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">SQL</a></li>
+        <li><a href="https://microverse.notion.site/HTML-CSS-Get-a-head-start-275eb85fd34b4416aa06ec635d69cdaf">GRAFANA</a></li>
+
 
 
 </ul>
@@ -41,7 +41,7 @@ In this Project, I have sourced files from MiniIO as a data source, perfomed ETL
 ###  Key Features <a name="key-features"></a>
 
 - Using provided data to perfom ETLprocesses to provide data insights
-- Display of pandas and spark use in data manipulation
+- Display of SQL and spark use in data manipulation
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -80,7 +80,7 @@ To run this project you need:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Raising the village for this challangE.Looking forward to working together
+- I would like to thank Raising the village for this challange
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
